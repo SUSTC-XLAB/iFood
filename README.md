@@ -1,5 +1,6 @@
 Welcome to GitHub Pages
-## 图片上传到 IMAGE文件夹    内容请到 WIKI栏目 建立   https://github.com/SUSTC-XLAB/iFood/wiki
+## 图片上传到 IMAGE文件夹    
+## 内容请到 WIKI栏目 建立   https://github.com/SUSTC-XLAB/iFood/wiki
 
 You can use the [editor on GitHub](https://github.com/SUSTC-XLAB/iFood/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
